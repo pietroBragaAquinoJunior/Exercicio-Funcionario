@@ -28,6 +28,7 @@ public class Main {
 		func.IncreaseSalary(sc.nextDouble());
 		
 		System.out.println("Updated data: "+func);
+		sc.close();
 		
 	}
 
